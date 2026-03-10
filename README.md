@@ -10,9 +10,4 @@
 
 ---
 
-## 🚀 My Portfolio
-![Portfolio Preview](https://github.com/thepratikshamishra/MyPortfolio/blob/e15787f162831449a85b0f2a62de7b455ee59687/assets/images/projects/portfolio1.PNG)
-
----
-
 ✨ *“Learning something new every day, one line of code at a time.”*
