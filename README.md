@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Pratiksha Mishra
 
-🎓 BCA Student | Aspiring Data Scientist | Coding Enthusiast  
+🎓 Aspiring Data Scientist | Coding Enthusiast  
 
 - 👀 I’m interested in **programming, data science, and problem solving**
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA) and improving my coding skills**
