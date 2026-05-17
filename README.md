@@ -9,11 +9,12 @@
 ---
 
 ## Current Focus
-- Python Projects
-- SQL Practice
-- Data Analysis
+- Python Development
+- SQL & Database Practice
+- Learning Data Analysis
 - Git & GitHub
 - Building Consistency
+- Console Application Devlopment
 
 ---
 
@@ -22,6 +23,7 @@
 - SQL
 - Java
 - Git & GitHub
+- Basic Data Analysis
 
 ---
 
