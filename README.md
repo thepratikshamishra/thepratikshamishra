@@ -20,17 +20,8 @@
 ## Tech Stack
 - Python
 - SQL
-- C++
+- Java
 - Git & GitHub
-
----
-
-## Goals for 2026
-- Build real-world projects
-- Strengthen Python skills
-- Learn Data Visualization
-- Create a professional portfolio
-- Prepare for internships
 
 ---
 
