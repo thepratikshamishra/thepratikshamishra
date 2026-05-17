@@ -1,13 +1,38 @@
-# Hi there 👋 I'm Pratiksha Mishra
+# Hi, I'm Pratiksha Mishra 👋
 
-🎓 Aspiring Data Scientist | Coding Enthusiast  
-
-- 👀 I’m interested in **programming, data science, and problem solving**
-- 🌱 I’m currently learning **Data Structures & Algorithms (DSA) and improving my coding skills**
-- 💞️ I’m looking to collaborate on **beginner-friendly coding and data science projects**
-- 📫 How to reach me: **pratikshamishra338@gmail.com**
-- ⚡ Fun fact: I enjoy solving coding problems and exploring new technologies.
+## About Me
+🎓 BCA Student  
+💻 Learning Python, SQL, and Data Analysis  
+📚 Exploring technology through practical projects  
+🌱 Currently improving problem-solving and development skills  
 
 ---
 
-✨ *“Learning something new every day, one line of code at a time.”*
+## Current Focus
+- Python Projects
+- SQL Practice
+- Data Analysis
+- Git & GitHub
+- Building Consistency
+
+---
+
+## Tech Stack
+- Python
+- SQL
+- C++
+- Git & GitHub
+
+---
+
+## Goals for 2026
+- Build real-world projects
+- Strengthen Python skills
+- Learn Data Visualization
+- Create a professional portfolio
+- Prepare for internships
+
+---
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/the-pratiksha-mishra
