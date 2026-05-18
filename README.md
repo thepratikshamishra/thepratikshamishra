@@ -10,11 +10,10 @@
 
 ## Current Focus
 - Python Development
-- SQL & Database Practice
+- Strengthening SQL Skills
 - Learning Data Analysis
 - Git & GitHub
 - Building Consistency
-- Console Application Devlopment
 
 ---
 
