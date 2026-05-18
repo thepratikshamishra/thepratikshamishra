@@ -24,6 +24,13 @@
 - SQL
 - Java
 
+### Data & Analytics
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Visualization
+- Basic Statistics
+
 
 ---
 
