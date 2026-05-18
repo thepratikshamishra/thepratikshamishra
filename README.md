@@ -18,11 +18,12 @@
 ---
 
 ## Tech Stack
+
+### Programming Languages 
 - Python
 - SQL
 - Java
-- Git & GitHub
-- Basic Data Analysis
+
 
 ---
 
