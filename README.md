@@ -23,6 +23,7 @@
 - Python
 - SQL
 - Java
+- html
 
 ### Data & Analytics
 - Pandas
