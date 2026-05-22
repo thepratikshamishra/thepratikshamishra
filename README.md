@@ -2,8 +2,9 @@
                                     
 ## About Me
 🎓 BCA student  
-💻 Learning Python, SQL, and Data Analysis 
-!📚 Exploring technology through practical projects  
+💻 Learning Python, SQL, and Data Analysis
+
+📚 Exploring technology through practical projects  
 🌱 Currently improving problem-solving and development skills  
 
 ---
