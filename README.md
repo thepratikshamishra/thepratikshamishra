@@ -14,7 +14,7 @@
 - Learning Data Analysis
 - Git & GitHub
 - Building Consistency 
-
+ 
 ---
  
 ## Tech Stack 
