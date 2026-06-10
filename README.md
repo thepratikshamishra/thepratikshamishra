@@ -22,7 +22,7 @@
 ### Programming Languages 
 - Python
 - SQL
-- Java
+- Java 
 - html
 
 ### Data & Analytics
