@@ -15,7 +15,7 @@
 - Git & GitHub
 - Building Consistency 
   
----
+--- 
  
 ## Tech Stack 
 
