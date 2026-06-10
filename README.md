@@ -8,7 +8,7 @@
 
 ---
    
-## Current Focus
+## Current Focus 
 - Python Development
 - Strengthening SQL Skills  
 - Learning Data Analysis
