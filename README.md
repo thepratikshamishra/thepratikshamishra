@@ -9,7 +9,7 @@
 ---
    
 ## Current Focus
-- Python Development 
+- Python Development
 - Strengthening SQL Skills 
 - Learning Data Analysis
 - Git & GitHub
