@@ -7,7 +7,7 @@
 🌱 Currently improving problem-solving and development skills.  
 
 ---
-
+ 
 ## Current Focus
 - Python Development 
 - Strengthening SQL Skills
