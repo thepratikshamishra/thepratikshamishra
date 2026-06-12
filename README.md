@@ -1,7 +1,7 @@
 # Hi, I'm Pratiksha Mishra 👋 
                                      
 ## About Me
-🎓 BCA student.  
+🎓 BCA student.   
 💻 Learning Python, SQL, and Data Analysis.    
 📚 Exploring technology through practical projects.   
 🌱 Currently improving problem-solving and development skills.  
