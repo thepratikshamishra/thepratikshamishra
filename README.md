@@ -6,7 +6,7 @@
 📚 Exploring technology through practical projects.    
 🌱 Currently improving problem-solving and development skills.  
 
----
+--- 
    
 ## Current Focus 
 - Python Development
