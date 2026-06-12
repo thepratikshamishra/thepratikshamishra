@@ -11,7 +11,7 @@
 ## Current Focus 
 - Python Development
 - Strengthening SQL Skills  
-- Learning Data Analysis 
+- Learning Data Analysis  
 - Git & GitHub
 - Building Consistency 
   
